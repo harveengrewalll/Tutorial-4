@@ -9,3 +9,7 @@ If you would like to run the tests locally to check your work before submission 
 - Open a terminal inside the working directory
 - Run the command `npm install` (only needed once)
 - Run the command `npm test` (everytime you would like to run the tests)
+
+Harveen Grewal
+hgrew4
+251340935
